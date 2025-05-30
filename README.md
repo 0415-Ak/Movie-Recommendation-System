@@ -35,7 +35,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/movie-recommendation-system.git
+   git clone https://github.com/0415-Ak/movie-recommendation-system.git
    cd movie-recommendation-system
    ```
 
