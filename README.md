@@ -122,7 +122,7 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@0414-Ak](https://github.com/0415-Ak)
 
 ## 🙏 Acknowledgments
 
